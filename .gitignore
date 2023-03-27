@@ -130,3 +130,5 @@ dmypy.json
 
 .my_pgpass
 .pg_service.conf
+
+runserve.sh
